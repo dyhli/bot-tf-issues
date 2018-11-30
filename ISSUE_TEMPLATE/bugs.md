@@ -8,7 +8,7 @@
 <!--- Not obligatory, but suggest a fix/reason for the bug -->
 
 ## Steps to reproduce
-<!--- Provide an unambiguous set of steps to eproduce this bug-->
+<!--- Provide an unambiguous set of steps to reproduce this bug-->
 1.
 2.
 3.
